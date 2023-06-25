@@ -1,5 +1,5 @@
 {
-  "name": "@code-hike/mdx",
+  "name": "konfig-code-hike-mdx",
   "version": "0.9.0",
   "files": [
     "dist",
